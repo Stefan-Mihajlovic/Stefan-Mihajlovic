@@ -5,5 +5,7 @@
 </div>
 
 ---
+CS student by day, builder of random-but-useful projects by night.
+---
 
 <img src="https://komarev.com/ghpvc/?username=Stefan-Mihajlovic&style=flat-square&color=blue" alt=""/>
